@@ -20,6 +20,7 @@ HTTP_HTTPS.jpg
 NAT_translation.jpg
 
 Задача 3. Связать сети Office 1 и Office 4 с помощью GRE. Предоставит трейс с Laptop0 до Server2.
+tracert_by_tunnel.jpg
 
 Задача 4. Доделать OpenVPN (или Wireguard) если не успели. Предоставит скриншот публичного IP до и после подключения через VPN + скриншот вывода команды ip addr.
 Учтите что в Yandex Cloud есть два нюанса:
