@@ -12,13 +12,12 @@ Office 4 - cеть 192.168.145.0/24
 
 Задача 1. Настроить на Port Forwarding на сервера в Office 2. Server0 должен предоставлять HTTP по 80му порту, а Server1 должен предоставлять HTTPS по 443 порту. Странички должны быть разные.
 HTTP_HTTPS.jpg
-NAT_translation.jpg
+
 
 Задача 2. Настроить PAT в Office 3 для компьютеров, чтобы они выходили в интернет под одним публичным IP адресом на Router1.
-
 Предоставить скриншот открытых страниц по HTTP и HTTPS по публичному адресу Router3 в веб-браузере клиентов Office3 (с РС1 и РС0)
-
 После чего предоставить вывод show ip nat translation c Router1.
+NAT_translation.jpg
 
 Задача 3. Связать сети Office 1 и Office 4 с помощью GRE. Предоставит трейс с Laptop0 до Server2.
 
